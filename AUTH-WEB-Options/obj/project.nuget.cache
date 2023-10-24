@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OiUlr0mjzMa3viKj7fqqbjmTHlB9hjvZ5aNERBhKqXeXDi2L3wWCfL+X4w9kCXInz4rrYXYkdp1RHnJ+6RHEig==",
+  "success": true,
+  "projectFilePath": "D:\\University\\3course\\atark\\field_tracker\\field_tracker-api\\AUTH-WEB-Options\\AUTH-WEB-Options.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.0\\microsoft.identitymodel.logging.6.12.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.0\\microsoft.identitymodel.tokens.6.12.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

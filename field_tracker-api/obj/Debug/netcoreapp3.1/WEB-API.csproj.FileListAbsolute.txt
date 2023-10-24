@@ -1,0 +1,259 @@
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\WEB-API.exe
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\WEB-API.deps.json
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\WEB-API.runtimeconfig.json
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\WEB-API.runtimeconfig.dev.json
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\WEB-API.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\WEB-API.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\obj\Debug\netcoreapp3.1\WEB-API.csprojAssemblyReference.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\obj\Debug\netcoreapp3.1\WEB-API.AssemblyInfoInputs.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\obj\Debug\netcoreapp3.1\WEB-API.AssemblyInfo.cs
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\obj\Debug\netcoreapp3.1\WEB-API.csproj.CoreCompileInputs.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\obj\Debug\netcoreapp3.1\WEB-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\obj\Debug\netcoreapp3.1\staticwebassets\WEB-API.StaticWebAssets.Manifest.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\obj\Debug\netcoreapp3.1\staticwebassets\WEB-API.StaticWebAssets.xml
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\obj\Debug\netcoreapp3.1\scopedcss\bundle\WEB-API.styles.css
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\obj\Debug\netcoreapp3.1\WEB-API.RazorTargetAssemblyInfo.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\obj\Debug\netcoreapp3.1\WEB-API.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\obj\Debug\netcoreapp3.1\WEB-API.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\obj\Debug\netcoreapp3.1\WEB-API.genruntimeconfig.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\obj\Debug\netcoreapp3.1\WEB-API.csproj.CopyComplete
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\LOGIC.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\LOGIC.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\obj\Debug\netcoreapp3.1\WEB-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\helppet-api\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.csprojAssemblyReference.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.AssemblyInfoInputs.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.AssemblyInfo.cs
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.csproj.CoreCompileInputs.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\WEB-API.exe
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\WEB-API.deps.json
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\WEB-API.runtimeconfig.json
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\WEB-API.runtimeconfig.dev.json
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\WEB-API.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\WEB-API.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\LOGIC.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\LOGIC.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\staticwebassets\WEB-API.StaticWebAssets.Manifest.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\staticwebassets\WEB-API.StaticWebAssets.xml
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\scopedcss\bundle\WEB-API.styles.css
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.RazorTargetAssemblyInfo.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.csproj.CopyComplete
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.genruntimeconfig.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\WEB-API.exe
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\WEB-API.deps.json
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\WEB-API.runtimeconfig.json
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\WEB-API.runtimeconfig.dev.json
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\WEB-API.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\WEB-API.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\DAL.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\LOGIC.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\bin\Debug\netcoreapp3.1\LOGIC.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.csproj.AssemblyReference.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.AssemblyInfoInputs.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.AssemblyInfo.cs
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.csproj.CoreCompileInputs.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.MvcApplicationPartsAssemblyInfo.cs
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.MvcApplicationPartsAssemblyInfo.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\staticwebassets\WEB-API.StaticWebAssets.Manifest.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\staticwebassets\WEB-API.StaticWebAssets.xml
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\scopedcss\bundle\WEB-API.styles.css
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.RazorTargetAssemblyInfo.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.csproj.CopyComplete
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\field_tracker-api\obj\Debug\netcoreapp3.1\WEB-API.genruntimeconfig.cache

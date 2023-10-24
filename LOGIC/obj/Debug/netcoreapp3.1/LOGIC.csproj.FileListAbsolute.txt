@@ -1,0 +1,37 @@
+C:\Users\qppte\Desktop\helppet\helppet-api\LOGIC\bin\Debug\netcoreapp3.1\LOGIC.deps.json
+C:\Users\qppte\Desktop\helppet\helppet-api\LOGIC\bin\Debug\netcoreapp3.1\LOGIC.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\LOGIC\bin\Debug\netcoreapp3.1\LOGIC.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.csprojAssemblyReference.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.AssemblyInfoInputs.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.AssemblyInfo.cs
+C:\Users\qppte\Desktop\helppet\helppet-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.csproj.CoreCompileInputs.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\LOGIC\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\LOGIC\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.csproj.CopyComplete
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.csprojAssemblyReference.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.AssemblyInfoInputs.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.AssemblyInfo.cs
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.csproj.CoreCompileInputs.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\LOGIC\bin\Debug\netcoreapp3.1\LOGIC.deps.json
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\LOGIC\bin\Debug\netcoreapp3.1\LOGIC.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\LOGIC\bin\Debug\netcoreapp3.1\LOGIC.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\LOGIC\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\LOGIC\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.csproj.CopyComplete
+D:\University\3course\atark\field_tracker\field_tracker-api\LOGIC\bin\Debug\netcoreapp3.1\LOGIC.deps.json
+D:\University\3course\atark\field_tracker\field_tracker-api\LOGIC\bin\Debug\netcoreapp3.1\LOGIC.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\LOGIC\bin\Debug\netcoreapp3.1\LOGIC.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\LOGIC\bin\Debug\netcoreapp3.1\DAL.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\LOGIC\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.csproj.AssemblyReference.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3course\atark\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.AssemblyInfoInputs.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.AssemblyInfo.cs
+D:\University\3course\atark\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.csproj.CoreCompileInputs.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.csproj.CopyComplete
+D:\University\3course\atark\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\LOGIC\obj\Debug\netcoreapp3.1\LOGIC.pdb

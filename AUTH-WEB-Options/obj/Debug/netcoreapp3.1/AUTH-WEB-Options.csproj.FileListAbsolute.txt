@@ -1,0 +1,37 @@
+C:\Users\qppte\Desktop\helppet\helppet-api\AUTH-WEB-Options\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.deps.json
+C:\Users\qppte\Desktop\helppet\helppet-api\AUTH-WEB-Options\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\AUTH-WEB-Options\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.csprojAssemblyReference.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.AssemblyInfoInputs.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.AssemblyInfo.cs
+C:\Users\qppte\Desktop\helppet\helppet-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.csproj.CoreCompileInputs.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\AUTH-WEB-Options\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.deps.json
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\AUTH-WEB-Options\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\AUTH-WEB-Options\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.csprojAssemblyReference.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.AssemblyInfoInputs.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.AssemblyInfo.cs
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.csproj.CoreCompileInputs.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.pdb
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\AUTH-WEB-Options\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.deps.json
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\AUTH-WEB-Options\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.dll
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\AUTH-WEB-Options\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.pdb
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.csprojAssemblyReference.cache
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.AssemblyInfoInputs.cache
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.AssemblyInfo.cs
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.csproj.CoreCompileInputs.cache
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.dll
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\AUTH-WEB-Options\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.deps.json
+D:\University\3course\atark\field_tracker\field_tracker-api\AUTH-WEB-Options\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\AUTH-WEB-Options\bin\Debug\netcoreapp3.1\AUTH-WEB-Options.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.csproj.AssemblyReference.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3course\atark\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.AssemblyInfoInputs.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.AssemblyInfo.cs
+D:\University\3course\atark\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.csproj.CoreCompileInputs.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\AUTH-WEB-Options\obj\Debug\netcoreapp3.1\AUTH-WEB-Options.pdb

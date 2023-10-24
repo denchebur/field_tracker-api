@@ -1,0 +1,49 @@
+C:\Users\qppte\Desktop\helppet\helppet-api\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\qppte\Desktop\helppet\helppet-api\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\qppte\Desktop\helppet\helppet-api\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\qppte\Desktop\helppet\helppet-api\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\qppte\Desktop\helppet\helppet-api\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\qppte\Desktop\helppet\helppet-api\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\qppte\Desktop\helppet\helppet-api\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\qppte\Desktop\helppet\helppet-api\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\qppte\Desktop\Програмна система для слідкування за станом полів\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\qppte\Desktop\Prgoramna_systema_dlya_slidkuvannya_za_stanov_poliv\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\University\3course\atark\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+D:\University\3course\atark\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+D:\University\3course\atark\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3course\atark\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\University\3course\atark\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\University\3course\atark\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\University\3course\atark\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\University\3course\atark\field_tracker\field_tracker-api\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
